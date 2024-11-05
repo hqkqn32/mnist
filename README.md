@@ -17,6 +17,6 @@ Bu proje, basit bir sinir ağı  kullanarak MNIST veri seti üzerinde el yazıs�
    git clone https://github.com/hqkqn32/mnist.git
    pip install torch torchvision matplotlib
    
-- ** Modeli Eğitme
+2 ** Modeli Eğitme
    Eğer modeli baştan eğitmek isterseniz mnist.py dosyasını çalıştırabilirsiniz.
    Eğitilmiş modeli kullanarak tahminler yapmak için test_model.py dosyasını çalıştırın:
